@@ -1,14 +1,18 @@
 # Bem-vindo ao meu perfil! 👋
 
-Olá! Sou o **Brenner**, Sócio e Diretor na **AUVP Capital**. A minha actuação concentra-se na intersecção entre finanças corporativas, modelação quantitativa, estratégia de capital e dinâmica do comportamento humano. Acredito que a formulação estratégica perde eficácia quando se afasta do rigor empírico; por isso, combino visão de conselho de administração com ferramentas analíticas e matemáticas capazes de isolar o ruído de mercado e sustentar decisões sob incerteza.
+Olá! Sou o **Brenner**. 
 
-O meu percurso envolve a governação e o desenho estrutural do negócio, mas com uma presença deliberada nos processos críticos e na arquitectura dos sistemas operacionais. Desenvolvo modelos que procuram traduzir complexidade comportamental e variáveis financeiras em sistemas lógicos, replicáveis e testáveis contra a realidade dos dados.
+Sou diretor e sócio no mercado de uma empresa no financeiro. Ajudei a fundar e construir uma das maiores consultorias de investimentos do país.
 
-> **Nota Metodológica & Escopo dos Repositórios:**  
-> Este perfil reúne implementações analíticas, simulações estatísticas, modelos de avaliação de capital e ferramentas de automação operacional. O objectivo deste espaço não é a produção utilitária de software comercial, mas sim a consolidação de protótipos e frameworks que servem como extensão do pensamento estratégico. A liderança com autoridade técnica exige contacto direto com o código e com a matemática subjacente aos fluxos operacionais.
+Apesar de o meu dia a dia girar em torno de finanças, alocação de capital e estratégia de negócios, mas a minha verdadeira motivação sempre foi entender como as coisas funcionam por baixo do capô — seja a mecânica de uma carteira de investimentos ou a lógica por trás de um algoritmo.
+
+Embora o meu papel principal esteja na direcção executiva e nas decisões de longo prazo, sou um entusiasta assumido de tecnologia. Para mim, programar e analisar dados nunca foram tarefas distantes da gestão: são ferramentas essenciais para tomar decisões com clareza, fugir do "achismo" e transformar problemas complexos em soluções práticas e elegantes.
+
+> **Sobre este espaço:**  
+> Este repositório pessoal é o meu laboratório. Aqui partilho experiências, protótipos de análise quantitativa, ferramentas que utilizo para testar hipóteses de mercado e pequenas soluções que desenvolvo para otimizar processos operacionais e de tomada de decisão. Acredito genuinamente que a melhor liderança é aquela que não perde o contacto com a prática e a curiosidade de aprender algo novo todos os dias.
 
 ### 🌐 Conecte-se comigo
 
-[![Website](https://img.shields.io/badge/AUVP%20Capital-auvpcapital.com.br-1F2328?style=flat-square&logo=google-chrome&logoColor=white)](https://auvpcapital.com.br)
+[![Website](https://img.shields.io/badge/AUVP%20Capital-Website-1F2328?style=flat-square&logo=google-chrome&logoColor=white)](https://auvpcapital.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brenner-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-brenner-181717?style=flat-square&logo=github&logoColor=white)](SEU_LINK_GITHUB)
