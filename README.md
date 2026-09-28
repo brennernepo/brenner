@@ -2,7 +2,7 @@
 
 Olá! Sou o **Brenner**. 
 
-Sou diretor e sócio no mercado de uma empresa no financeiro. Ajudei a fundar e construir uma das maiores consultorias de investimentos do país.
+Sou diretor e sócio de uma empresa no mercado financeiro. Ajudei a fundar e construir uma das maiores consultorias de investimentos do país.
 
 Apesar de o meu dia a dia girar em torno de finanças, alocação de capital e estratégia de negócios, mas a minha verdadeira motivação sempre foi entender como as coisas funcionam por baixo do capô — seja a mecânica de uma carteira de investimentos ou a lógica por trás de um algoritmo.
 
